@@ -1,0 +1,12 @@
+IRepositorioProcessos.class
+IServicoEmail.class
+JavaEmailApp$1.class
+JavaEmailApp.class
+IValidadorProcesso.class
+Validador.class
+RepositorioProcessos.class
+ControladorSIAPJ.class
+Processo.class
+ServicoEmailProcAceito.class
+JavaEmailApp$2.class
+ServicoEmailProcNaoAceito.class
